@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_heaven"
+  site-url: "https://ahmedcha001.github.io/nbdev_heaven"
+  description: "Trying nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/ahmedcha001/nbdev_heaven"
