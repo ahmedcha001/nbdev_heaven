@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://ahmedcha001.github.io',
                 'git_url': 'https://github.com/ahmedcha001/nbdev_heaven',
                 'lib_path': 'nbdev_heaven'},
-  'syms': {'nbdev_heaven.core': {'nbdev_heaven.core.foo': ('core.html#foo', 'nbdev_heaven/core.py')}}}
+  'syms': { 'nbdev_heaven.core': { 'nbdev_heaven.core.add': ('core.html#add', 'nbdev_heaven/core.py'),
+                                   'nbdev_heaven.core.multiply': ('core.html#multiply', 'nbdev_heaven/core.py'),
+                                   'nbdev_heaven.core.say_hello': ('core.html#say_hello', 'nbdev_heaven/core.py')}}}
